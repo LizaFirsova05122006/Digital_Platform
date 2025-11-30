@@ -140,8 +140,8 @@ ON CONFLICT DO NOTHING;
 ```
 
 ### Данные для входа
-- **Email**: 123@123.ru
-- **Пароль**: 123456
+- **Email**: admin@moto-moto.ema
+- **Пароль**: DLQlsY817Zk8LI4A
 
 ## Примечание
 Пароль хешируется с помощью bcrypt (10 раундов).
